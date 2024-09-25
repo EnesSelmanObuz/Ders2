@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <ul type="disc">
+        <li>Kitap
+            <ul type="circle">
+                <li>Edebiyat
+                    <ul type="square">
+                        <li>Roman</li>
+                        <li>Öykü</li>
+                        <li>Şiir</li>
+                        <li>Türk Edebiyatı</li>
+                    </ul>
+                </li>
+                <li>Eğitim
+                    <ul type="square">
+                        <li>Bilgisayar Kitapları</li>
+                        <li>Yabancı dil</li>
+                        <li>Sınav Kitapları</li>
+                    </ul>
+                </li>
+                <li>Çocuk
+                     <ul type="square">
+                         <li>Masal</li>
+                         <li>Boyama</li>
+                     </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Film
+            <ul type="circle">
+                <li>Belgesel</li>
+                <li>Animasyon</li>
+                <li>Çizgi Film</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
