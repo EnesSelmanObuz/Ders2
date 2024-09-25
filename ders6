@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tablo</title>
+</head>
+<body>
+   <table border="1">
+    <tr>
+        <td>1</td>
+        <td>Muslera</td>
+    </tr>
+    <tr>
+
+    </tr>
+        <td>24</td>
+        <td>Jelert</td>
+    </tr>
+</tr>
+<td>42</td>
+<td>Abdulkerim Bardakçı</td>
+</tr>
+</tr>
+<td>5</td>
+<td>Davinson Sanchez</td>
+</tr>
+</tr>
+<td>4</td>
+<td>I. Jacobs</td>
+</tr>
+</tr>
+<td>34</td>
+<td>L.Torreria</td>
+</tr>
+</tr>
+<td>20</td>
+<td>Gabriel Sara</td>
+</tr>
+</tr>
+<td>10</td>
+<td>Mertens</td>
+</tr>
+</tr>
+<td>53</td>
+<td>Barış Alper Yılmaz</td>
+</tr>
+</tr>
+<td>7</td>
+<td>R. Sallai</td>
+</tr>
+</tr>
+<td>9</td>
+<td>Mauroo İcardii</td>
+</tr>
+   </table>
+
+    
+</body>
+</html>
